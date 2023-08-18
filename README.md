@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizqafatika
+- 👋 Hi, I’m @rizqaff
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on GitHub
