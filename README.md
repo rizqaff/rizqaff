@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rizqaff
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Statistics
-- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me rizqa.fatika@gmail.com
 
 <!---
